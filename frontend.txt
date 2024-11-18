@@ -1,0 +1,3 @@
+fronetend
+- konsisten belajar css
+- konsisten belajar javascript
